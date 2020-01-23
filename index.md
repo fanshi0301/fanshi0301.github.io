@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects during graduate study
 
 [Project 1 Exploratory analysis and demand prediction for NYC taxi](https://xinyimsumyee.github.io/tanalyxi/)
 This is a group work in my graduate course. This design aims to offer useful information to both taxi drivers and managers. The app we designed offers information about the average earnings of the taxi driver and which spot has more passengers. In this course design, I mainly design the app which explores the distribution of the NYC taxi and clusters by day and hours.
@@ -20,7 +20,7 @@ This project designs an app which displays the currenct situation of parking in 
 
 ---
 
-### Category Name 2
+### Projects during undergraduate study
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
