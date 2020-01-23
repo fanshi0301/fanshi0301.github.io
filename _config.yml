@@ -8,3 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/%E9%92%92-%E7%9F%B3-bb9318198/">View My LinkedIn Profile</a> 
   <br><br>
   Location: Philadelphia, Pennsylvania
+  
+theme: jekyll-theme-minimal
+
