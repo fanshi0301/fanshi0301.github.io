@@ -7,7 +7,7 @@
 [Project 1 Exploratory analysis and demand prediction for NYC taxi](https://xinyimsumyee.github.io/tanalyxi/)
 
 This is a group work in my graduate course. This design aims to offer useful information to both taxi drivers and managers. The app we designed offers information about the average earnings of the taxi driver and which spot has more passengers. In this course design, I mainly design the app which explores the distribution of the NYC taxi and clusters by day and hours.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/taxi.png?raw=true"/>
 
 ---
 [Project 2 Time space analysis for bike share](/pdf/FanShi_bikeshare.html)
