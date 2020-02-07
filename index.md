@@ -13,7 +13,7 @@ This is a group work in my graduate course. This design aims to offer useful inf
 [Project 2 Time space analysis for bike share](/pdf/FanShi_bikeshare.html)
 
 In this program, I use the data from Indego to make spatial and temporal analysis of bikeshare data and predicte the needs of bikeshare in each area to help better allocate the resources.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bikeshare.png?raw=true"/>
 
 ---
 [Project 3 Prediction for parking in Seattle](/pdf/Fan Shi & Ziqun Li_Parkingdemand.html)
