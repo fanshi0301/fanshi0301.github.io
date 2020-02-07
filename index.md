@@ -19,7 +19,7 @@ In this program, I use the data from Indego to make spatial and temporal analysi
 [Project 3 Prediction for parking in Seattle](/pdf/Fan Shi & Ziqun Li_Parkingdemand.html)
 
 This project designs an app which displays the currenct situation of parking in Seattle and predicts parking demand in Seattle. We expect that this app can helps to ease the pressure of parking in Seattle. I did the model building and programing in this project and my partner did the design of the app.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/parking.png?raw=true"/>
 
 ---
 
